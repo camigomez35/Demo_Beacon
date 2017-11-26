@@ -1,0 +1,8 @@
+{
+  "name": "demo-beacons",
+  "app_id": "e309f03c",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
